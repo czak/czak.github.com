@@ -6,3 +6,7 @@ CSS Version: 1.0
 */
 
 /* Use this file to override style.css */
+
+.col1 .fb-like {
+  float: right;
+}
